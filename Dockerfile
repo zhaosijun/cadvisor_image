@@ -1,4 +1,4 @@
-#mirror from  gcr.io/google_containers/kubedns-amd64:1.9
+#mirror from  google/cadvisor
 
-FROM gcr.io/google_containers/kubedns-amd64:1.9
-MAINTAINER zhaosijun@dayang.com.cn
+FROM google/cadvisor
+MAINTAINER zhaosijunjun@163.com
